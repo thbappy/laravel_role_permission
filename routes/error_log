@@ -1,0 +1,16 @@
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/absoyymi/admin.absolutionit.com/routes/web.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/routes/web.php on line 19
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/absoyymi/admin.absolutionit.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/routes/console.php on line 17
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/absoyymi/admin.absolutionit.com/routes/api.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/routes/api.php on line 6
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/absoyymi/admin.absolutionit.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/routes/channels.php on line 16

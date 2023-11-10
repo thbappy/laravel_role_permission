@@ -1,0 +1,52 @@
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/app.php on line 18
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/filesystems.php on line 16
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/broadcasting.php on line 18
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/database.php on line 18
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/hashing.php on line 32
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/sanctum.php on line 18
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/mail.php on line 16
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/queue.php on line 16
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/cache.php on line 18
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/absoyymi/admin.absolutionit.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/view.php on line 17
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/logging.php on line 20
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/session.php on line 21
+[10-May-2023 12:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/absoyymi/admin.absolutionit.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/absoyymi/admin.absolutionit.com/config/services.php on line 18
