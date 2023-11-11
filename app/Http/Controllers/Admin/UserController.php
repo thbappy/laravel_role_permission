@@ -77,7 +77,6 @@ class UserController extends Controller
         $this->validate($request,[
             'name' => 'required',
             'email' => 'required|email|unique:users,email,'.$id,
-            'address' => 'required',
             'role' => 'required',
         ]);
 
