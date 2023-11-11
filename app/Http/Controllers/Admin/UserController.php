@@ -50,7 +50,6 @@ class UserController extends Controller
         $data = new User();
         $data->name = $request->get('name');
         $data->email = $request->get('email');
-        $data->phone = $request->get('phone');
         $data->password = bcrypt($request->get('password'));
 
         if($data->save()){
